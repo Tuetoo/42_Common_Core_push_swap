@@ -147,7 +147,8 @@ Testing with **`test.sh`**
 Use the **`test.sh`** script to test the program with a variety of input cases. It runs both the **push_swap** and **checker** programs, comparing the results to ensure correctness.
 
 ## File Structure
-.
+
+.                                
 ├── bonus                  
 │   ├── checker.c               
 │   ├── checker_utils.c             
